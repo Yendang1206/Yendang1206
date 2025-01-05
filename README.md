@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi there 👋, I’m Yen Dang
 
-🌱 I graduated from Vaasa University of Applied Sciences (VAMK) with the major of Embedded Systems.
+🌱 I graduated from Vaasa University of Applied Sciences (VAMK) with a major in Embedded Systems.
 
 🔭 I’m a motivated and proactive learner, who is seeking a work opportunity with a focus on Embedded Systems fields.
 
